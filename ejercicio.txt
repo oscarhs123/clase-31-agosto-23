@@ -1,0 +1,7 @@
+Bienvenidos a ciencias de la computación
+
+cd - Cambia de directorio
+mkdir crea un nuevo directorio
+ls lista los elementos de un directorio 
+touch crea o actualiza un archivo
+cat "reproduce" lo que hay en un archivo 
