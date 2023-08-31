@@ -5,3 +5,10 @@ mkdir crea un nuevo directorio
 ls lista los elementos de un directorio 
 touch crea o actualiza un archivo
 cat "reproduce" lo que hay en un archivo 
+
+
+GIT
+git clone para clonar
+git add . para agregar todos los cambios
+git commit -m "commit" para aceptar cambios
+git push origin <Rama> para subir los cambios a github
