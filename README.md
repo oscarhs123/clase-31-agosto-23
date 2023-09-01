@@ -23,3 +23,7 @@
 - **git checkout** *Rama* - Cambia de rama
 - **git checkout -b** *nombre_rama* - Crea una nueva rama y se cambia a ella.
 - **git branch** - Lista las ramas existente
+
+### GIT CHEAT SHEET
+
+[Comandos de git](https://education.github.com/git-cheat-sheet-education.pdf)
